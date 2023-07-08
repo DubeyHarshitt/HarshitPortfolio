@@ -144,6 +144,14 @@ footer .footer-rights{
         flex-direction: column;
         padding-bottom: 30px;
     }
+    .left {
+        padding-top: 35px;
+    }
+    nav .right li {
+        font-size: larger;
+        width: auto;
+        padding-top: 20px;
+    }
     .secondSection{
         /* width: 50vw;
         max-width: 80vw; */
