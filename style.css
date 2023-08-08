@@ -175,7 +175,7 @@ footer .footer-rights{
         justify-content: center ;
     }
     body{
-        width: 100%;
+        min-width: 400px;
     }
     .footerThird{
         display: block;
